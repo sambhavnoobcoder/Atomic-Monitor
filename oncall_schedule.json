@@ -1,0 +1,40 @@
+{
+  "services": {
+    "nlu-service": {
+      "Monday": "Sambhav.Dixit",
+      "Tuesday": "Sambhav.Dixit",
+      "Wednesday": "Sambhav.Dixit",
+      "Thursday": "Sambhav.Dixit",
+      "Friday": "Sambhav.Dixit",
+      "Saturday": "Sambhav.Dixit",
+      "Sunday": "Sambhav.Dixit"
+    },
+    "ml-data-ingestion-temporal": {
+      "Monday": "Sambhav.Dixit",
+      "Tuesday": "Sambhav.Dixit",
+      "Wednesday": "Sambhav.Dixit",
+      "Thursday": "Sambhav.Dixit",
+      "Friday": "Sambhav.Dixit",
+      "Saturday": "Sambhav.Dixit",
+      "Sunday": "Sambhav.Dixit"
+    },
+    "esd-async-worker": {
+      "Monday": "Sambhav.Dixit",
+      "Tuesday": "Sambhav.Dixit",
+      "Wednesday": "Sambhav.Dixit",
+      "Thursday": "Sambhav.Dixit",
+      "Friday": "Sambhav.Dixit",
+      "Saturday": "Sambhav.Dixit",
+      "Sunday": "Sambhav.Dixit"
+    },
+    "flyte": {
+      "Monday": "Sambhav.Dixit",
+      "Tuesday": "Sambhav.Dixit",
+      "Wednesday": "Sambhav.Dixit",
+      "Thursday": "Sambhav.Dixit",
+      "Friday": "Sambhav.Dixit",
+      "Saturday": "Sambhav.Dixit",
+      "Sunday": "Sambhav.Dixit"
+    }
+  }
+}
